@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1089299964389",
+    "firebase_url": "https://flashg4-f8ea6.firebaseio.com",
+    "project_id": "flashg4-f8ea6",
+    "storage_bucket": "flashg4-f8ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089299964389:android:a666fc8d666dcf2f",
+        "android_client_info": {
+          "package_name": "cl.riemsianne.flashg4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089299964389-l806rd7pb9mmpovmpv2se0hiuehobdst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.riemsianne.flashg4",
+            "certificate_hash": "37d01502b5b58de3d96cbd06ef2b9d35498f362c"
+          }
+        },
+        {
+          "client_id": "1089299964389-vin56rnbjfdr8luli19pva3dn8io6ucc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wb8DyU_H3uskSrkkmLZcxsqniD0rEj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089299964389-vin56rnbjfdr8luli19pva3dn8io6ucc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
